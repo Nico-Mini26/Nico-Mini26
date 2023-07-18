@@ -1,8 +1,8 @@
-# 💫 About Me:
+# About Me:
 Hello everyone, my name is Nico.
 
 
-## 🌐 Socials:
+## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nico.mini.26) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nico_mini26) 
 
 # 💻 Tech Stack:
